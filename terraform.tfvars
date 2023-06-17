@@ -13,5 +13,5 @@ private_subnet_name = "Terraform_Private_Subnet-testing"
 Main_Routing_Table  = "Terraform_Main_table-testing"
 key_name            = "devops"
 environment         = "dev"
-imagename           = "ami-0d20eb1bc54b11d59"
+imagename           = "ami-07ee91af91f3eb968"
 
